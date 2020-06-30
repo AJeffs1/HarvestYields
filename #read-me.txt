@@ -1,0 +1,8 @@
+Thank you for deciding to use Harvest Yields
+Created by Blazej Berezowski, Harry Clayton, Alex Jeffs, Jamie Land, John McGuire, Ethan Stretton & Tommy Wilson
+At the University of Lincoln UK
+
+Download Link : johnmcguire500.github.io/pages/download.html
+
+To begin, please run 'Launch HarvestYields.bat' and follow the instructions provided.
+
